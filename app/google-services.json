@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "988506478644",
+    "firebase_url": "https://not-your-typical-to-do-list-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "not-your-typical-to-do-list",
+    "storage_bucket": "not-your-typical-to-do-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988506478644:android:ce0efe8466478e79751261",
+        "android_client_info": {
+          "package_name": "com.example.notyourtypicalto_dolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988506478644-ahv3idmbbnde1bclp11qofl29iiurgu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwvY7Bmi0zNCxmdQlRMtnj_Fkx3iXUO28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988506478644-ahv3idmbbnde1bclp11qofl29iiurgu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

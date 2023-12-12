@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--    <color name="txtDoneTask">#</color>-->
+    <!--    <color name="txtCalenderTiming">#</color>-->
+    <!--    <color name="txtCalenderTimingFinished">#</color>-->
+    <!--    <color name="backgrondSelectedTag">#</color>-->
+        <color name="txtTitle">#FBFBFB</color>
+    <!--    <color name="txtDoneTask">#</color>-->
+    <!--    <color name="txtDoneTask">#</color>-->
+    <!--    <color name="txtDoneTask">#</color>-->
+    <!--    <color name="txtDoneTask">#</color>-->
+    <color name="Red">#FF0000</color>
+    <color name="Green">#00FF00</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="Purple">#800080</color>
+    <color name="Cyan">#00FFFF</color>
+    <color name="Magenta">#FF00FF</color>
+    <color name="Gray">#808080</color>
+    <color name="Orange">#FFA500</color>
+    <color name="Brown">#A52A2A</color>
+    <color name="Lavender">#8692f7</color>
+    <color name="facebook">#0866ff</color>
+</resources>

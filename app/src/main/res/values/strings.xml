@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Not your typical to-do list</string>
+    <string name="cursive">cursive</string>
+    <string name="defaultFont">SF</string>
+</resources>
