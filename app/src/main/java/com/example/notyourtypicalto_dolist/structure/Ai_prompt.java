@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Ai_prompt {
     public static String prompt(String prompt) {
         String url = "https://api.openai.com/v1/chat/completions";
-        String apiKey = "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";
+        String apiKey = "Sealed-secrets";
         String model = "gpt-3.5-turbo";
         try {
             URL obj = new URL(url);
